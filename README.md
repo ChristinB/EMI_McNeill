@@ -1,5 +1,5 @@
 # EMIMcNeill
-EMresponse for LIN (Low Induction Numbers)
+EMresponse for LIN (Low Induction Numbers) for a DUALEM-sensor
 
 Based on the paper of McNeill:
 
