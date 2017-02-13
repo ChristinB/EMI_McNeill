@@ -52,20 +52,3 @@ plot(z1,Rz1H,'-')
 xlabel('Normalized Depth')
 ylabel('R(z1)')
 title('Cumulutive response versus depth')
-
-
-
-%% From conductivities to apparent conductivities (measured by device)
-%conda1=cond1*(1-Rz1)+cond2*Rz1;
-%conda2=cond1*(1-Rz2)+cond2*Rz2;
-%
-%figure
-%hold on
-%plot(conda1,Rz1,'*g')
-%plot(conda2,Rz2,'*r')
-%title('Apparent conductivity according to depth z1 of layer boundary')
-%xlabel('Normalized Depth')
-%ylabel('R(z2)')
-
-
-
