@@ -1,4 +1,4 @@
-# EMIMcNeill
+# EMI_McNeill
 EMresponse for LIN (Low Induction Numbers) for a DUALEM-sensor
 
 Based on the technical notes of McNeill:
